@@ -12,7 +12,7 @@ The Card Slide component showcases a responsive design where cards slide horizon
 
 ### Code
 
-You can find the code for the Card Slide component in [src/card-slide](https://github.com/CodeWithShivram/Responsive-HTML-and-CSS-/blob/main/src/card%20slide).
+You can find the code for the Card Slide component in [src/card-slide](https://github.com/CodeWithShivram/Responsive-HTML-and-CSS-/tree/main/card%20slide).
 
 ## More Components
 
