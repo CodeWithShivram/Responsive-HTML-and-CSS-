@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive 3D Touch Slider with Custom Audio Controls by Shivram Marwadi</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+    <input type="radio" name="slider" id="item-1" checked>
+    <input type="radio" name="slider" id="item-2">
+    <input type="radio" name="slider" id="item-3">
+    <div class="cards">
+        <label class="card" for="item-1" id="song-1">
+            <img decoding="async" src="OIP.jpeg" alt="song">
+        </label>
+        <label class="card" for="item-2" id="song-2">
+            <img decoding="async" src="OIP (1).jpeg" alt="song">
+        </label>
+        <label class="card" for="item-3" id="song-3">
+            <img decoding="async" src="download.jpeg" alt="song">
+        </label>
+    </div>
+    <div class="player">
+        <audio id="audio-player">
+            <source id="audio-source" src="song1.mp3" type="audio/mp3">
+            Your browser does not support the audio element.
+        </audio>
+        <div class="upper-part">
+            <div class="play-icon" id="play-pause">
+                <svg width="20" height="20" fill="#790c5a" stroke="#790c5a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="feather feather-play" viewBox="0 0 24 24">
+                    <defs/>
+                    <path d="M5 3l14 9-14 9V3z"/>
+                </svg>
+            </div>
+            <div class="info-area" id="test">
+                <label class="song-info" id="song-info-1">
+                    <div class="title">STAY WITH ME</div>
+                    <div class="sub-line">
+                        <div class="subtitle">Miki Matsubara</div>
+                        <div class="time">4.05</div>
+                    </div>
+                </label>
+                <label class="song-info" id="song-info-2">
+                    <div class="title">SHINUNOGA E-WA</div>
+                    <div class="sub-line">
+                        <div class="subtitle">Fujii Kaze</div>
+                        <div class="time">3.05</div>
+                    </div>
+                </label>
+                <label class="song-info" id="song-info-3">
+                    <div class="title">EENIE MEENIE</div>
+                    <div class="sub-line">
+                        <div class="subtitle">Justin Bieber</div>
+                        <div class="time">2.05</div>
+                    </div>
+                </label>
+            </div>
+        </div>
+        <div class="progress-bar">
+            <span class="progress"></span>
+        </div>
+    </div>
+</div> 
+
+<script src="script.js"></script>
+</body>
+</html>
