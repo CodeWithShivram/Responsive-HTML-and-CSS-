@@ -26,6 +26,18 @@ The Profile Card component is a responsive design for displaying user profiles. 
 
 You can find the code for the Profile Card component in [src/profile-card](https://github.com/CodeWithShivram/Responsive-HTML-and-CSS-/tree/main/Profile%20Card).
 
+## Touch Slide Carousel
+
+![Touch Slide Carousel Demo](https://media.giphy.com/media/Ie8jgIZRKYYJuyOk1b/giphy.gif)
+
+### Description
+
+The Touch Slide Carousel component is a responsive and touch-friendly carousel. It allows users to slide through items using touch gestures or mouse events, ensuring a smooth and interactive experience on various devices.
+
+### Code
+
+You can find the code for the Touch Slide Carousel component in [src/touch-slide-carousel](https://github.com/CodeWithShivram/Responsive-HTML-and-CSS-/tree/main/Touch%20Slider%20Carousel).
+
 ## More Components
 
 Stay tuned for more responsive components! Each component will have its own section like the ones above.
