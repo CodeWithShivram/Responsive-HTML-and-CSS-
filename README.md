@@ -38,6 +38,18 @@ The Touch Slide Carousel component is a responsive and touch-friendly carousel. 
 
 You can find the code for the Touch Slide Carousel component in [src/touch-slide-carousel](https://github.com/CodeWithShivram/Responsive-HTML-and-CSS-/tree/main/Touch%20Slider%20Carousel).
 
+## Product Cards
+
+![Product Cards Demo](https://media.giphy.com/media/Wo9tQDUcQUw1L6cVUs/giphy.gif)
+
+### Description
+
+The Product Cards component is a responsive design for showcasing products. It includes product images, titles, prices, and descriptions, making it suitable for e-commerce websites.
+
+### Code
+
+You can find the code for the Product Cards component in [src/product-cards](https://github.com/CodeWithShivram/Responsive-HTML-and-CSS-/tree/main/Product%20Cards).
+
 ## More Components
 
 Stay tuned for more responsive components! Each component will have its own section like the ones above.
